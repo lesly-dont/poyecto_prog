@@ -1,0 +1,8 @@
+﻿  Compras.cpp
+C:\Users\50254\Documents\UMG DOCUMENTOS DE CLASES\TERCER SEMESTRE\PROGRAMACION 1\mysql_c\mysql_c\Compras.h(239,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  mysql_c.cpp
+C:\Users\50254\Documents\UMG DOCUMENTOS DE CLASES\TERCER SEMESTRE\PROGRAMACION 1\mysql_c\mysql_c\Compras.h(239,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\50254\Documents\UMG DOCUMENTOS DE CLASES\TERCER SEMESTRE\PROGRAMACION 1\mysql_c\mysql_c\mysql_c.cpp(745,7): error C2084: function 'void menu_compras(void)' already has a body
+C:\Users\50254\Documents\UMG DOCUMENTOS DE CLASES\TERCER SEMESTRE\PROGRAMACION 1\mysql_c\mysql_c\mysql_c.cpp(695): message : see previous definition of 'menu_compras'
+C:\Users\50254\Documents\UMG DOCUMENTOS DE CLASES\TERCER SEMESTRE\PROGRAMACION 1\mysql_c\mysql_c\mysql_c.cpp(754,58): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Compras'
+C:\Users\50254\Documents\UMG DOCUMENTOS DE CLASES\TERCER SEMESTRE\PROGRAMACION 1\mysql_c\mysql_c\mysql_c.cpp(754,58): message : No constructor could take the source type, or constructor overload resolution was ambiguous
